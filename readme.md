@@ -21,6 +21,6 @@
 
 ### Tech stacks
 
-- Pandas, Numpy, Sciklearn
+- Pandas, Numpy, Sci-kit learn
 - Flask, React, Antd
 - AWS, Github
